@@ -59,16 +59,3 @@ The `MNISTNN` architecture consists of two spatial feature extraction blocks fol
 
 ### Saved Artifacts:
 * Trained model weights are serialized and saved locally as `mnist_model.pth`.
-
----
-
-## 📂 Repository Structure
-
-```text
-.
-├── notebooks/
-│   └── mnist_cnn_pytorch.ipynb   # Main Jupyter Notebook with detailed Markdown
-├── weights/
-│   └── mnist_model.pth           # Saved PyTorch model state_dict
-├── README.md                     # Project documentation
-└── requirements.txt              # Dependencies
